@@ -1,0 +1,11 @@
+Model Information:
+* title:	K9
+* source:	https://sketchfab.com/3d-models/k9-16bb4f352e714c50b6fd5f11e0ed60c5
+* author:	timblewee (https://sketchfab.com/timblewee)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "K9" (https://sketchfab.com/3d-models/k9-16bb4f352e714c50b6fd5f11e0ed60c5) by timblewee (https://sketchfab.com/timblewee) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
