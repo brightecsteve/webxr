@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/webxr/static/js/main.7b3026c2.js",
+    "main.js": "/webxr/static/js/main.ecc69d90.js",
     "static/js/206.c4a987a6.chunk.js": "/webxr/static/js/206.c4a987a6.chunk.js",
     "index.html": "/webxr/index.html"
   },
   "entrypoints": [
-    "static/js/main.7b3026c2.js"
+    "static/js/main.ecc69d90.js"
   ]
 }
